@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Salary Prediction/*
+!/Salary Prediction/task/
+/Salary Prediction/task/*
+!/Salary Prediction/task/solution.py
